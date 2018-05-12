@@ -1,0 +1,31 @@
+_repo: Po-sies_16989
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lautréamont, comte de
+    aliases:
+    - Ducasse, Isidore Lucien
+    - Lautreamont, comte de
+    birthdate: 1846
+    deathdate: 1870
+    gutenberg_agent_id: '7071'
+    url: http://www.gutenberg.org/2009/agents/7071
+    wikipedia: http://en.wikipedia.org/wiki/Comte_de_Lautr%C3%A9amont
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2005-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16989'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Poetry'
+title: Poésies
+url: http://www.gutenberg.org/ebooks/16989
