@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7071
     wikipedia: http://en.wikipedia.org/wiki/Comte_de_Lautr%C3%A9amont
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16989#Po-sies
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2005-11-03'
 gutenberg_type: Text
